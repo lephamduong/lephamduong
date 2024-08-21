@@ -1,4 +1,4 @@
-![Header](./background1.png)
+![Header](./background_new.png)
 
 
 ## Hi there 👋
