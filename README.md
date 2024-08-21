@@ -10,7 +10,7 @@ Statistical Analysis
 
 I’m skilled in Python, R, and SQL, and familiar with tools like Pandas, NumPy, and Scikit-learn. Always eager to learn and collaborate!
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <!--
 **lephamduong/lephamduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
