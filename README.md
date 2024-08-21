@@ -4,9 +4,9 @@
 ## Hi there 👋
 I’m Le-Duong Pham, a passionate Data Science student currently studying at Catholic University of Eichstätt-Ingolstadt. I love uncovering insights from data and working on projects involving:
 
-# Machine Learning
-# Data Visualization
-# Statistical Analysis
+### Machine Learning
+### Data Visualization
+### Statistical Analysis
 I’m skilled in Python, R, and SQL, and familiar with tools like Pandas, NumPy, and Scikit-learn. Always eager to learn and collaborate!
 
 
