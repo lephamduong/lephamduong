@@ -10,6 +10,9 @@ Statistical Analysis
 
 I’m skilled in Python🖥️, R📊, and SQL📖, and familiar with tools like Pandas, NumPy🔢, and Scikit-learn. Always eager to learn and collaborate!
 
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=lephamduong&amp;show_icons=true" alt="GitHub Stats"></p>
+
 ![Visitor Count](https://profile-counter.glitch.me/{lephamduong}/count.svg)
 
 <!--
