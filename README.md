@@ -1,4 +1,5 @@
-![Header](./[https://raw.githubusercontent.com/lephamduong/lephamduong/main/background.png])
+![Header](./background.png)
+
 
 ## Hi there 👋
 
